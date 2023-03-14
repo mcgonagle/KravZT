@@ -1,5 +1,5 @@
 # Krav Zero Trust
-## *Full Contact ZeroTrust*
+## *Full Contact Zero Trust*
 
 Krav means contact in Hebrew and Maga means combat. Together Krav Maga means Contact Combat. KravZT is an approach to Zero Trust that creates a *mindset* enforcing policies, such as the principle of least privilege; secure IT architecture design, microsegmentation; and technologies including multifactor authentication, user and entity behavior analytics, and endpoint monitoring.
 
@@ -46,7 +46,7 @@ Situation awareness has been recognized as a critical, yet often elusive, founda
     - “Comatose” - Not able to function.
 
 
-## Krav ZeroTrust Tenants
+## Krav Zero Trust Tenants
     1. Be aggressive but smart in your problem solving.
     2. Be vigilant in identifying and addressing challenges.
     3. Be proactive based on your current weaknesses or vulnerabilities; react quickly when you have to.
@@ -78,7 +78,7 @@ Some of the key focus is instinctive response under stress. To that end, Krav Ma
 ----------
 ## Zero Trust Components from the [Zero Trust Roadmap](https://zerotrustroadmap.org/)
 
-[](https://zerotrustroadmap.org/)**Users**
+**Users**
 
     1. Establish a corporate identity
     2. Enforce MFA for all applications
