@@ -1,11 +1,15 @@
 # Krav ZeroTrust
 ## *Full Contact ZeroTrust*
 
-Krav means contact in Hebrew. Full contact ZeroTrust is an approach that focuses on practical real-world skills via the application of Krav Maga self-defense principles.
+Krav means contact in Hebrew and Maga means combat. Full contact ZeroTrust is an approach that focuses on practical real-world skills, personal development via the application of Krav Maga self-defense principles.
 
 Krav Maga is primarily focused on safety in the real world and is often considered the most practical martial art form in the world.
 
 What you learn in Krav Maga will carry over into other aspects of your life, including the strength, focus, and self-confidence you learn through the practice and eventual [mastery](https://blog.doist.com/mastery/).
+
+Krav Maga isn’t just for self-defense. Many who study it do so for the fitness, mental skills, and community aspects as well.
+
+The techniques and skills of Krav Maga don’t rely on a person’s strength or size. Because Krav Maga focuses on *quick movements*, anyone can train and learn the self-defense aspects of the art.
 
 ## Principles of Krav Zero Trust
 
