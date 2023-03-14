@@ -5,6 +5,8 @@ Krav means contact in Hebrew. Full contact ZeroTrust is an approach that focuses
 
 Krav Maga is primarily focused on safety in the real world and is often considered the most practical martial art form in the world.
 
+What you learn in Krav Maga will carry over into other aspects of your life, including the strength, focus, and self-confidence you learn through the practice and eventual [mastery](https://blog.doist.com/mastery/).
+
 ## Principles of Krav Zero Trust
 
 **Employ Krav Maga’s** ***Retzev*** **- "Continuous Motion"**
