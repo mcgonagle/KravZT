@@ -7,7 +7,7 @@ Krav means contact in Hebrew. Full contact ZT is an approach to ZeroTrust that f
 
 **Employ Krav Maga’s** ***Retzev*** **- "Continuous Motion"**
 
-    Retzev is a concept that urges the Krav Maga practitioner to utilize and harness the natural power in movement throughout both **defensive** and **offensive** initiatives within a self-defense technique(s).
+Retzev is a concept that urges the Krav Maga practitioner to utilize and harness the natural power in movement throughout both **defensive** and **offensive** initiatives within a self-defense technique(s).
 
 F**our Pillars of Krav Maga**
 
