@@ -109,7 +109,7 @@ Some of the key focus is instinctive response under stress. To that end, Krav Ma
     5. Establish a SOC for log review, policy updates and mitigation
     6. Stay up to date on known threat actors
 
-***Steady State***
-**
+** Steady State **
+
     1. Employ a DevOps approach to ensure policy enforcement for all new resources
     2. Implement auto-scaling for on-ramp resources
