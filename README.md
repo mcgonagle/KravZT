@@ -5,13 +5,13 @@ Krav means contact in Hebrew and Maga means combat. Together Krav Maga means Con
 
 KravZT applies the best principles and practices of athletic and martial arts practice to the field of [Zero Trust Architecture](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207.pdf). Modern security and networking activities are an effort in teamwork and KravZT practioners practice in KravZT Dojos - Similar to [DevOps Dojos](https://infraswarm.io/devops-dojos-safe-places-for-practice-and-mentorship) where they focus on the ten [teamwork](https://en.wikipedia.org/wiki/Teamwork) principles.
 
-Krav Maga is primarily focused on safety in the real world and is often considered the most practical martial art form in the world.
+KravZT is primarily focused on safety and the real world, exactly like Krav Maga which is considered the most practical and efficient self defense system in the world.
 
-What you learn in Krav Maga will carry over into other aspects of your life, including the strength, focus, and self-confidence you learn through the practice and eventual [mastery](https://blog.doist.com/mastery/).
+What you learn by studying KravZT will carry over into other aspects of your life, including the strength, focus, and self-confidence you learn through the practice and eventual [mastery](https://blog.doist.com/mastery/) of Zero Trust Architectural systems analysis and design.
 
-Krav Maga isn’t just for self-defense. Many who study it do so for the fitness, mental skills, and community aspects as well.
+Studying KravZT isn’t just for career development. Many who study it do so for the mental skills, and community aspects as well.
 
-The techniques and skills of Krav Maga don’t rely on a person’s strength or size. Because Krav Maga focuses on *quick movements*, anyone can train and learn the self-defense aspects of the art.
+The techniques and skills of Krav Maga don’t rely on a person’s strength or size. Because Krav Maga focuses on *quick movements*, anyone can train and learn the self-defense aspects of the art. Similarly, KravZT is focused entirely focused on a practioner's "developer experience". The KravZT approach is to examplify these *quick movements* and make a network or security engineer into a very powerful [Chief Zero Trust Officer](https://blog.cloudflare.com/chief-zero-trust-officer/). 
 
 ## Principles of Krav Zero Trust
 
