@@ -1,7 +1,9 @@
-# Krav ZeroTrust
+# Krav Zero Trust
 ## *Full Contact ZeroTrust*
 
-Krav means contact in Hebrew and Maga means combat. Full contact ZeroTrust is an approach that focuses on practical real-world skills, personal development via the application of Krav Maga self-defense principles.
+Krav means contact in Hebrew and Maga means combat. Together Krav Maga means Contact Combat. KravZT is an approach to Zero Trust that creates a *mindset* enforcing policies, such as the principle of least privilege; secure IT architecture design, microsegmentation; and technologies including multifactor authentication, user and entity behavior analytics, and endpoint monitoring.
+
+KravZT applies the best principles and practices of athletic and martial arts practice to the field of [Zero Trust Architecture](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207.pdf). Modern security and networking activities are an effort in teamwork and KravZT practioners practice in KravZT Dojos - Similar to [DevOps Dojos](https://infraswarm.io/devops-dojos-safe-places-for-practice-and-mentorship) where they focus on the ten [teamwork](https://en.wikipedia.org/wiki/Teamwork) principles.
 
 Krav Maga is primarily focused on safety in the real world and is often considered the most practical martial art form in the world.
 
@@ -17,7 +19,7 @@ The techniques and skills of Krav Maga don’t rely on a person’s strength or 
 
 Retzev is a concept that urges the Krav Maga practitioner to utilize and harness the natural power in movement throughout both **defensive** and **offensive** initiatives within a self-defense technique(s).
 
-F**our Pillars of Krav Maga**
+**Four Pillars of Krav Maga**
 
     1. Awareness
     2. Avoidance
