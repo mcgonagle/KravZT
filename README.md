@@ -1,7 +1,9 @@
 # Krav ZeroTrust
 ## *Full Contact ZeroTrust*
 
-Krav means contact in Hebrew. Full contact ZT is an approach to ZeroTrust that focuses on practical real-world skills via the application of Krav Maga self-defense principles.
+Krav means contact in Hebrew. Full contact ZeroTrust is an approach that focuses on practical real-world skills via the application of Krav Maga self-defense principles.
+
+Krav Maga is primarily focused on safety in the real world and is often considered the most practical martial art form in the world.
 
 ## Principles of Krav Zero Trust
 
