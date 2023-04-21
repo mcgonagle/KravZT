@@ -1,6 +1,15 @@
 # *Full Contact Zero Trust*
 
 ## *Secure - Extensible - Reliable - Scalable - Repeatable*
+### Krav Zero Trust Tenants
+    1. Be aggressive but smart in your problem solving.
+    2. Be vigilant in identifying and addressing challenges.
+    3. Be proactive based on your current weaknesses or vulnerabilities; react quickly when you have to.
+    4. Be tool agnostic.
+    5. Invoke precision when executing tasks.
+    6. Employ simple and repeatable techniques.
+    7. Include situational awareness in all aspects of your practice.
+    8. Understand the impact of stress on your planning and response.
 
 Krav means contact in Hebrew and Maga means combat. Together Krav Maga means Contact Combat. KravZT is an approach to Zero Trust that creates a *mindset* enforcing policies, such as the principle of least privilege; secure IT architecture design, microsegmentation; and technologies including multifactor authentication, user and entity behavior analytics, and endpoint monitoring.
 
@@ -13,16 +22,6 @@ What you learn by studying KravZT will carry over into other aspects of your lif
 Studying KravZT isn’t just for career development. Many who study it do so for the mental skills, and community aspects as well.
 
 The techniques and skills of Krav Maga don’t rely on a person’s strength or size. Because Krav Maga focuses on *quick movements*, anyone can train and learn the self-defense aspects of the art. Similarly, KravZT is focused entirely focused on a practioner's "developer experience". The KravZT approach is to examplify these *quick movements* and make a network or security engineer into a very powerful [Chief Zero Trust Officer](https://blog.cloudflare.com/chief-zero-trust-officer/). 
-
-## Krav Zero Trust Tenants
-    1. Be aggressive but smart in your problem solving.
-    2. Be vigilant in identifying and addressing challenges.
-    3. Be proactive based on your current weaknesses or vulnerabilities; react quickly when you have to.
-    4. Be tool agnostic.
-    5. Invoke precision when executing tasks.
-    6. Employ simple and repeatable techniques.
-    7. Include situational awareness in all aspects of your practice.
-    8. Understand the impact of stress on your planning and response.
 
 
 ## Principles of Krav Zero Trust
