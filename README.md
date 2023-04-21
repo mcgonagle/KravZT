@@ -1,5 +1,4 @@
-# Krav Zero Trust
-## *Full Contact Zero Trust*
+# *Full Contact Zero Trust*
 
 ## *Secure - Extensible - Reliable - Scalable - Repeatable*
 
