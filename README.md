@@ -10,6 +10,8 @@
     6. Employ simple and repeatable techniques.
     7. Include situational awareness in all aspects of your practice.
     8. Understand the impact of stress on your planning and response.
+    
+## Krav Zero Trust Approach
 
 Krav means contact in Hebrew and Maga means combat. Together Krav Maga means Contact Combat. KravZT is an approach to Zero Trust that creates a *mindset* enforcing policies, such as the principle of least privilege; secure IT architecture design, microsegmentation; and technologies including multifactor authentication, user and entity behavior analytics, and endpoint monitoring.
 
