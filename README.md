@@ -1,7 +1,7 @@
 # *Full Contact Zero Trust*
 
 ## *Secure - Extensible - Reliable - Scalable - Repeatable*
-### Krav Zero Trust Tenants
+### KravZT Tenants
     1. Be aggressive but smart in your problem solving.
     2. Be vigilant in identifying and addressing challenges.
     3. Be proactive based on your current weaknesses or vulnerabilities; react quickly when you have to.
