@@ -1,6 +1,8 @@
 # Krav Zero Trust
 ## *Full Contact Zero Trust*
 
+## *Secure - Extensible - Reliable - Scalable - Repeatable*
+
 Krav means contact in Hebrew and Maga means combat. Together Krav Maga means Contact Combat. KravZT is an approach to Zero Trust that creates a *mindset* enforcing policies, such as the principle of least privilege; secure IT architecture design, microsegmentation; and technologies including multifactor authentication, user and entity behavior analytics, and endpoint monitoring.
 
 KravZT applies the best principles and practices of athletic and martial arts practice to the field of [Zero Trust Architecture](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207.pdf). Modern security and networking activities are an effort in teamwork and KravZT practioners practice in KravZT Dojos - Similar to [DevOps Dojos](https://infraswarm.io/devops-dojos-safe-places-for-practice-and-mentorship) where they focus on the ten [teamwork](https://en.wikipedia.org/wiki/Teamwork) principles.
